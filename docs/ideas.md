@@ -5,7 +5,7 @@ El objetivo es ofrecer a los usuarios una forma rápida y sin complicaciones de 
 
 Aplicaciones similares:
 
-- [...](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses&pcampaignid=web_share)
+- [...Mis Gastos](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses&pcampaignid=web_share)
 - ...
 - ...
 
