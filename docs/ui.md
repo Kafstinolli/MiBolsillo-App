@@ -8,12 +8,21 @@ A continuación, se presentan las principales pantallas:
 
 1. Pantalla de inicio
 
- El usuario podrá visualizar un resumen de sus finanzas, incluyendo ingresos, gastos y balance general. También podrá acceder rápidamente a otras funciones clave de la app.
+El usuario podrá visualizar un resumen de sus finanzas, incluyendo ingresos, gastos y balance general. También podrá acceder rápidamente a otras funciones clave de la app.
 
 
-![screen1](pantallaInicio.png)
+![screen1](images/pantallaInicio.png)
 
-# Referencias
+1. Pantalla de informes
 
-- [Material Design: Foundations](https://m3.material.io/foundations)
-- [Material Design: Style](https://m3.material.io/styles)
+Desde esta pantalla, el usuario podrá acceder a un resumen visual y detallado de su situación financiera. La información se presenta mediante gráficos y estadísticas que facilitan el análisis de ingresos y gastos.
+
+
+![screen1](images/pantallaInformes.png)
+
+1. Pantalla de Agregar Gastos/Ingresos
+
+Desde esta pantalla, el usuario podrá registrar nuevas transacciones de manera rápida y sencilla, ya sea un gasto o un ingreso. La interfaz es clara y accesible, permitiendo una gestión eficiente de las finanzas personales.
+
+
+![screen1](images/pantallaAgregar.png)
